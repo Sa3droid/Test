@@ -34,7 +34,7 @@ class Reuseable extends StatelessWidget {
           ),
           SizedBox(width: 10),
           Text(
-            'Ahmed',
+            'John Safwat',
             style: GoogleFonts.inter(fontSize: 24, fontWeight: FontWeight.w700),
           ),
         ],
